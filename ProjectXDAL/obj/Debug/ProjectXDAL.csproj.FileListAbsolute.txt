@@ -1,0 +1,2 @@
+C:\Users\hp\source\repos\ProjectX_API_Activity1\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProjectX_API_Activity1\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\hp\source\repos\ProjectX_API_Activity1\ProjectX_API_Activity1\obj\Debug\ProjectX_API_Activity1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProjectX_API_Activity1\ProjectX_API_Activity1\obj\Debug\ProjectX_API_Activity1.csproj.CoreCompileInputs.cache
